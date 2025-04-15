@@ -1,2 +1,3 @@
 # javascript
-A code repository for Javascript series
+A code repository for Javascript series.
+Author : Suryakant
